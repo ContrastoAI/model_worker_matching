@@ -1,8 +1,8 @@
 # 🧠 Worker Matching Model
-This project develops a machine learning system to intelligently match workers with job opportunities based on historical activity, behavioral signals, and job characteristics. Designed to improve employment outcomes and operational efficiency, the model balances automation with human oversight, enabling teams to scale matching decisions while maintaining control and explainability.
+This system functionality develops a machine learning system to intelligently match workers with job opportunities based on historical activity, behavioral signals, and job characteristics. Designed to improve employment outcomes and operational efficiency, the model balances automation with human oversight, enabling teams to scale matching decisions while maintaining control and explainability.
 
 ## 🚀 Overview
-The Worker Matching Model is a decision-support tool tailored for workforce platforms and HR systems. It leverages historical job data, behavioral patterns (e.g., churn, engagement, reliability), and job metadata to:
+The Worker Matching Model leverages historical job data, behavioral patterns (e.g., churn, engagement, reliability), and job metadata to:
 
 Recommend top candidates for a given job posting
 
@@ -10,7 +10,7 @@ Score the compatibility of job-worker pairs
 
 Surface reasons for match strength to support recruiter decisions
 
-The system is designed for B2B use, particularly for internal HR departments, staffing platforms, or employment marketplaces.
+It is a decision-support tool tailored for workforce platforms and HR systems. The system is designed for B2B use, particularly for internal HR departments, staffing platforms, or employment marketplaces.
 
 ## 🔍 Functionality
 Semi-autonomous decision support: Suggests candidates but keeps recruiters in the loop.
